@@ -29,6 +29,7 @@ gem 'puma', '~> 3.7'
 gem 'omniauth'
 gem 'devise'
 gem 'devise_token_auth'
+gem 'braintree'
 
 group :development, :test do
   gem 'pry'
